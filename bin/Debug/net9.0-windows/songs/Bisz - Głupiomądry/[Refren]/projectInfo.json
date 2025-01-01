@@ -1,0 +1,50 @@
+{
+  "textFont": "font.ttf",
+  "textColor": [
+    255,
+    255,
+    255
+  ],
+  "backgroundColor": [
+    60,
+    60,
+    60
+  ],
+  "highLightAlpha": 95,
+  "isHighLightOnTheTop": true,
+  "highLightList": [
+    {
+      "range": [
+        15,
+        24
+      ],
+      "color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "range": [
+        104,
+        113
+      ],
+      "color": [
+        0,
+        81,
+        255
+      ]
+    },
+    {
+      "range": [
+        153,
+        159
+      ],
+      "color": [
+        0,
+        4,
+        174
+      ]
+    }
+  ]
+}

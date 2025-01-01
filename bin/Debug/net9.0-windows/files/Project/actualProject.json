@@ -1,0 +1,22 @@
+{
+    "song": "name/refren",
+    "font": "font.ttf",
+    "textColor": "(255, 255, 255)",
+    "backgroundColor": "(0, 0, 0)",
+    "highLightAlpha": 255,
+    "isHighLightOnTheTop": true,
+    "highLightList": [
+        {
+            "range": [6, 10],
+            "color": [87, 255, 74]
+        },
+        {
+            "range": [15, 20],
+            "color": [200, 100, 50]
+        },
+        {
+            "range": [25, 30],
+            "color": [0, 0, 255]
+        }
+    ]
+}

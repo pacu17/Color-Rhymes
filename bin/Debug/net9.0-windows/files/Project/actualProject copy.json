@@ -1,0 +1,35 @@
+{
+    "font": "C:\\Users\\thege\\Desktop\\Programowanie\\C#\\BasicGUI\\bin\\Debug\\net9.0-windows\\files\\fonts\\font.ttf",
+    "textColor": [255, 255, 255],
+    "backgroundColor": [
+      60,
+      60,
+      60
+    ],
+    "highLightAlpha": 95,
+    "isHighLightOnTheTop": true,
+    "highLightList": [
+      {
+        "range": [
+          15,
+          24
+        ],
+        "color": [
+          255,
+          255,
+          255
+        ]
+      },
+      {
+        "range": [
+          8,
+          13
+        ],
+        "color": [
+          218,
+          96,
+          0
+        ]
+      }
+    ]
+  }

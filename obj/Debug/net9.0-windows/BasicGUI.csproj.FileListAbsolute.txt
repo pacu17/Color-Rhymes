@@ -1,0 +1,17 @@
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\BasicGUI.exe
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\BasicGUI.deps.json
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\BasicGUI.runtimeconfig.json
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\BasicGUI.dll
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\BasicGUI.pdb
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.AssemblyInfoInputs.cache
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.AssemblyInfo.cs
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.csproj.CoreCompileInputs.cache
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.dll
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\refint\BasicGUI.dll
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.pdb
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.genruntimeconfig.cache
+C:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\ref\BasicGUI.dll
+c:\Users\thege\Desktop\Programowanie\C#\BasicGUI\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+c:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.csproj.AssemblyReference.cache
+c:\Users\thege\Desktop\Programowanie\C#\BasicGUI\obj\Debug\net9.0-windows\BasicGUI.csproj.Up2Date

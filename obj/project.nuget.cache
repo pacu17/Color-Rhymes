@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fsDQhNYvn44=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\thege\\Desktop\\Programowanie\\C#\\BasicGUI\\BasicGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thege\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
